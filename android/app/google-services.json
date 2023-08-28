@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685695254761",
+    "project_id": "gogobook-de",
+    "storage_bucket": "gogobook-de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685695254761:android:5001f2dc3aa63c06033078",
+        "android_client_info": {
+          "package_name": "com.gogobookdev.gogobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685695254761-4eqadvfe6ufq1u4p010h2qki47egkh0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogobookdev.gogobook",
+            "certificate_hash": "b4adecc1dc269e73c02d48b8522af1f40a347e0f"
+          }
+        },
+        {
+          "client_id": "685695254761-u8esj9kt4hsjdoi56mtsv0lbjsr17bjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmL4uLyxFsziiRe5Y4RZbCURUGw07fW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685695254761-u8esj9kt4hsjdoi56mtsv0lbjsr17bjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">685695254761-u8esj9kt4hsjdoi56mtsv0lbjsr17bjn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">685695254761</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEmL4uLyxFsziiRe5Y4RZbCURUGw07fW8</string>
+    <string name="google_app_id" translatable="false">1:685695254761:android:5001f2dc3aa63c06033078</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEmL4uLyxFsziiRe5Y4RZbCURUGw07fW8</string>
+    <string name="google_storage_bucket" translatable="false">gogobook-de.appspot.com</string>
+    <string name="project_id" translatable="false">gogobook-de</string>
+</resources>

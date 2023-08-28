@@ -1,0 +1,82 @@
+name: gogobook
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  firebase_auth: ^4.6.1
+  cloud_firestore: ^4.8.2
+  firebase_core: ^2.13.0
+  google_sign_in: ^6.1.0
+  connectivity_plus: ^4.0.1
+  fluttertoast: ^8.2.2
+  shared_preferences: ^2.1.1
+  flutter_share: ^2.0.0
+  url_launcher: ^6.1.11
+  share: ^2.0.4
+  flutter_web_browser: ^0.17.1
+  get: ^4.6.5
+  flutter_barcode_scanner:
+  image_picker:
+  camera:
+  permission_handler:
+  intro_views_flutter: ^3.2.0
+  tutorial_coach_mark:
+  google_mobile_ads:
+  google_api_availability: ^5.0.0
+  uuid: ^3.0.7
+  change_app_package_name: ^1.1.0
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: 'gogobook'
+  image_path: 'assets/images/GOGOBOOK_rast.png'
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/images/
+
+
+  fonts:
+    - family: Gotham
+      fonts:
+        - asset: assets/fonts/GothamBook.ttf
+    - family: Sora
+      fonts:
+        - asset: assets/fonts/Sora/Sora-VariableFont_wght.ttf
+        - asset: assets/fonts/Sora/static/Sora-Bold.ttf
+        - asset: assets/fonts/Sora/static/Sora-ExtraBold.ttf
+        - asset: assets/fonts/Sora/static/Sora-ExtraLight.ttf
+        - asset: assets/fonts/Sora/static/Sora-Light.ttf
+        - asset: assets/fonts/Sora/static/Sora-Medium.ttf
+        - asset: assets/fonts/Sora/static/Sora-Regular.ttf
+        - asset: assets/fonts/Sora/static/Sora-SemiBold.ttf
+        - asset: assets/fonts/Sora/static/Sora-Thin.ttf
+flutter_intl:
+  enabled: false

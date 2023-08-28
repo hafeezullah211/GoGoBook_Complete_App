@@ -1,0 +1,596 @@
+Logo Screen Strings{
+"login" : "Login",
+'signup' : 'Sign up',
+'signin as a guest' : 'Sign in as Guest',
+}
+
+SignUp Screen Strings{
+'signup title' : 'Sign Up',
+'label text of first field': 'Name',
+'label text of 2nd field': 'Email',
+'label text of 3rd field': 'Password',
+'terms text1' : 'I accept the ',
+'terms text2' : 'Terms & Policies',
+'button text' : 'Create Account',
+'separation line text' : 'or'
+'sign in with google button text' : 'Sign in with Google',
+'sign in with facebook button text' : 'Sign in with Facebook',
+' name error1': 'Please enter your name.',
+'email error1': 'Please enter your Email.',
+'email error2': 'Please enter a valid email address.',
+'password error': 'Your password must be at least 8 characters long.',
+'password error2' : 'Your password is too weak.',
+'password error3' : 'The email address is already in use.',
+'account creation text' : 'New Account Created Successfully',
+'wholesome error': 'An error occurred.',
+'already have an account': 'Already have an account?',
+'login' : 'Login',
+'condition to create an account': 'Please accept the Terms and Policies to continue.'
+}
+
+Login Screen Strings{
+'screen title': 'Log in',
+'label text of 1st field' : 'Email',
+'label text of 2nd field' : 'Password',
+'error 1': 'User not found. Please create an account.',
+'error 2': 'Incorrect email or password.',
+'button text' : 'Login',
+'Forgot password text' : 'Forgot password?',
+'last line': 'Don't have an account?',
+'last line2' : 'Sign Up'
+}
+
+Forgot Password Screen Strings{
+'screen title': 'Recover Password',
+'label text of field': 'Enter Email',
+'button text' : 'Reset Password',
+'error 1': 'Please enter your email.',
+'error 2': 'Please enter a valid email address.',
+'success text': 'Password reset email sent successfully.',
+'error 3': 'No user found with the provided email address.',
+'wholesome error': 'An error occurred while sending the password reset email.',
+}
+
+Home Screen Text Strings{
+'Greeting Text' : 'Good Morning',
+'Greeting Text 2' : 'Good Afternoon',
+'Greeting Text 3' : 'Good Evening',
+'Greeting Text 3' : 'Good Night',
+'Heading 1 text': 'Bookmarked Books',
+'Heading 2 text': 'Wishlist Books',
+'Heading 3 text': 'Books Already Read Books',
+'Heading 4 text': 'Recommended Books',
+}
+
+Search Screen Strings{
+'screen title': 'Search',
+'Search Bar label text': 'Name/Title, Author',
+'search button' : 'Search',
+'filter button' : 'Filter',
+'recommend me a book button': 'Recommend me a Book',
+}
+
+{
+  "@@locale": "en",
+  "login": "Login",
+  "signup": "Sign up",
+  "signinAsAGuest": "Sign in as Guest",
+  "signupTitle": "Sign Up",
+  "labelTextOfFirstField": "Name",
+  "labelTextOf2ndField": "Email",
+  "labelTextOf3rdField": "Password",
+  "termsText1": "I accept the ",
+  "termsText2": "Terms & Policies",
+  "buttonText": "Create Account",
+  "separationLineText": "or",
+  "signInWithGoogleButtonText": "Sign in with Google",
+  "signInWithFacebookButtonText": "Sign in with Facebook",
+  "nameError1": "Please enter your name.",
+  "emailError1": "Please enter your Email.",
+  "emailError2": "Please enter a valid email address.",
+  "passwordError": "Your password must be at least 8 characters long.",
+  "passwordError2": "Your password is too weak.",
+  "passwordError3": "The email address is already in use.",
+  "accountCreationText": "New Account Created Successfully",
+  "wholesomeError": "An error occurred.",
+  "alreadyHaveAnAccount": "Already have an account?",
+  "loginText": "Login",
+  "conditionToCreateAnAccount": "Please accept the Terms and Policies to continue.",
+  "screenTitle": "Log in",
+  "labelTextOf1stField": "Email",
+  "labelTextOfSecondField": "Password",
+  "error1": "User not found. Please create an account.",
+  "error2": "Incorrect email or password.",
+  "buttonTextLogin": "Login",
+  "forgotPasswordText": "Forgot password?",
+  "lastLine": "Don't have an account?",
+  "lastLine2": "Sign Up",
+  "screenTitleForgotPassword": "Recover Password",
+  "labelTextOfField": "Enter Email",
+  "buttonTextForgotPassword": "Reset Password",
+  "error1ForgotPassword": "Please enter your email.",
+  "error2ForgotPassword": "Please enter a valid email address.",
+  "successText": "Password reset email sent successfully.",
+  "error3ForgotPassword": "No user found with the provided email address.",
+  "wholesomeErrorForgotPassword": "An error occurred while sending the password reset email.",
+  "greetingText": "Good Morning",
+  "greetingText2": "Good Afternoon",
+  "greetingText3": "Good Evening",
+  "greetingText4": "Good Night",
+  "heading1Text": "Bookmarked Books",
+  "heading2Text": "Wishlist Books",
+  "heading3Text": "Books Already Read Books",
+  "heading4Text": "Recommended Books",
+  "screenTitleSearch": "Search",
+  "searchBarLabelText": "Name/Title, Author",
+  "searchButtonText": "Search",
+  "filterButtonText": "Filter",
+  "recommendMeABookButtonText": "Recommend me a Book"
+}
+
+{
+  "@@locale": "it",
+  "login": "Accedi",
+  "signup": "Iscriviti",
+  "signinAsAGuest": "Accedi come Ospite",
+  "signupTitle": "Iscriviti",
+  "labelTextOfFirstField": "Nome",
+  "labelTextOf2ndField": "Email",
+  "labelTextOf3rdField": "Password",
+  "termsText1": "Accetto i ",
+  "termsText2": "Termini e Condizioni",
+  "buttonText": "Crea Account",
+  "separationLineText": "o",
+  "signInWithGoogleButtonText": "Accedi con Google",
+  "signInWithFacebookButtonText": "Accedi con Facebook",
+  "nameError1": "Per favore inserisci il tuo nome.",
+  "emailError1": "Per favore inserisci la tua Email.",
+  "emailError2": "Per favore inserisci un indirizzo email valido.",
+  "passwordError": "La tua password deve contenere almeno 8 caratteri.",
+  "passwordError2": "La tua password è troppo debole.",
+  "passwordError3": "L'indirizzo email è già in uso.",
+  "accountCreationText": "Nuovo Account Creato con Successo",
+  "wholesomeError": "Si è verificato un errore.",
+  "alreadyHaveAnAccount": "Hai già un account?",
+  "loginText": "Accedi",
+  "conditionToCreateAnAccount": "Per favore accetta i Termini e Condizioni per continuare.",
+  "screenTitle": "Accedi",
+  "labelTextOf1stField": "Email",
+  "labelTextOfSecondField": "Password",
+  "error1": "Utente non trovato. Per favore crea un account.",
+  "error2": "Email o password non corretta.",
+  "buttonTextLogin": "Accedi",
+  "forgotPasswordText": "Password dimenticata?",
+  "lastLine": "Non hai un account?",
+  "lastLine2": "Iscriviti",
+  "screenTitleForgotPassword": "Recupera Password",
+  "labelTextOfField": "Inserisci Email",
+  "buttonTextForgotPassword": "Resetta Password",
+  "error1ForgotPassword": "Per favore inserisci la tua email.",
+  "error2ForgotPassword": "Per favore inserisci un indirizzo email valido.",
+  "successText": "Email di reset password inviata con successo.",
+  "error3ForgotPassword": "Nessun utente trovato con l'indirizzo email fornito.",
+  "wholesomeErrorForgotPassword": "Si è verificato un errore durante l'invio dell'email di reset password.",
+  "greetingText": "Buongiorno",
+  "greetingText2": "Buon pomeriggio",
+  "greetingText3": "Buonasera",
+  "greetingText4": "Buona notte",
+  "heading1Text": "Libri Preferiti",
+  "heading2Text": "Libri Desiderati",
+  "heading3Text": "Libri Già Letti",
+  "heading4Text": "Libri Consigliati",
+  "screenTitleSearch": "Ricerca",
+  "searchBarLabelText": "Nome/Titolo, Autore",
+  "searchButtonText": "Cerca",
+  "filterButtonText": "Filtra",
+  "recommendMeABookButtonText": "Consigliami un Libro"
+}
+
+
+import 'package:flutter/widgets.dart';
+
+class AppLocalizations {
+  final Locale locale;
+
+  AppLocalizations(this.locale);
+
+  static final Map<String, Map<String, String>> _localizedValues = {
+    'en': {
+      'login': 'Login',
+      'signup': 'Sign up',
+      'signinAsAGuest': 'Sign in as Guest',
+      'signupTitle': 'Sign Up',
+      'labelTextOfFirstField': 'Name',
+      'labelTextOf2ndField': 'Email',
+      'labelTextOf3rdField': 'Password',
+      'termsText1': 'I accept the ',
+      'termsText2': 'Terms & Policies',
+      'buttonText': 'Create Account',
+      'separationLineText': 'or',
+      'signInWithGoogleButtonText': 'Sign in with Google',
+      'signInWithFacebookButtonText': 'Sign in with Facebook',
+      'nameError1': 'Please enter your name.',
+      'emailError1': 'Please enter your Email.',
+      'emailError2': 'Please enter a valid email address.',
+      'passwordError': 'Your password must be at least 8 characters long.',
+      'passwordError2': 'Your password is too weak.',
+      'passwordError3': 'The email address is already in use.',
+      'accountCreationText': 'New Account Created Successfully',
+      'wholesomeError': 'An error occurred.',
+      'alreadyHaveAnAccount': 'Already have an account?',
+      'loginText': 'Login',
+      'conditionToCreateAnAccount': 'Please accept the Terms and Policies to continue.',
+      'screenTitle': 'Log in',
+      'labelTextOf1stField': 'Email',
+      'labelTextOfSecondField': 'Password',
+      'error1': 'User not found. Please create an account.',
+      'error2': 'Incorrect email or password.',
+      'buttonTextLogin': 'Login',
+      'forgotPasswordText': 'Forgot password?',
+      'lastLine': "Don't have an account?",
+      'lastLine2': 'Sign Up',
+      'screenTitleForgotPassword': 'Recover Password',
+      'labelTextOfField': 'Enter Email',
+      'buttonTextForgotPassword': 'Reset Password',
+      'error1ForgotPassword': 'Please enter your email.',
+      'error2ForgotPassword': 'Please enter a valid email address.',
+      'successText': 'Password reset email sent successfully.',
+      'error3ForgotPassword': 'No user found with the provided email address.',
+      'wholesomeErrorForgotPassword': 'An error occurred while sending the password reset email.',
+      'greetingText': 'Good Morning',
+      'greetingText2': 'Good Afternoon',
+      'greetingText3': 'Good Evening',
+      'greetingText4': 'Good Night',
+      'heading1Text': 'Bookmarked Books',
+      'heading2Text': 'Wishlist Books',
+      'heading3Text': 'Books Already Read Books',
+      'heading4Text': 'Recommended Books',
+      'screenTitleSearch': 'Search',
+      'searchBarLabelText': 'Name/Title, Author',
+      'searchButtonText': 'Search',
+      'filterButtonText': 'Filter',
+      'recommendMeABookButtonText': 'Recommend me a Book',
+    },
+    'it': {
+      'login': 'Accedi',
+      'signup': 'Iscriviti',
+      'signinAsAGuest': 'Accedi come Ospite',
+      'signupTitle': 'Iscriviti',
+      'labelTextOfFirstField': 'Nome',
+      'labelTextOf2ndField': 'Email',
+      'labelTextOf3rdField': 'Password',
+      'termsText1': 'Accetto i ',
+      'termsText2': 'Termini e Condizioni',
+      'buttonText': 'Crea Account',
+      'separationLineText': 'o',
+      'signInWithGoogleButtonText': 'Accedi con Google',
+      'signInWithFacebookButtonText': 'Accedi con Facebook',
+      'nameError1': 'Per favore inserisci il tuo nome.',
+      'emailError1': 'Per favore inserisci la tua Email.',
+      'emailError2': 'Per favore inserisci un indirizzo email valido.',
+      'passwordError': 'La tua password deve contenere almeno 8 caratteri.',
+      'passwordError2': 'La tua password è troppo debole.',
+      'passwordError3': "L'indirizzo email è già in uso.",
+      'accountCreationText': 'Nuovo Account Creato con Successo',
+      'wholesomeError': 'Si è verificato un errore.',
+      'alreadyHaveAnAccount': 'Hai già un account?',
+      'loginText': 'Accedi',
+      'conditionToCreateAnAccount': 'Per favore accetta i Termini e Condizioni per continuare.',
+      'screenTitle': 'Accedi',
+      'labelTextOf1stField': 'Email',
+      'labelTextOfSecondField': 'Password',
+      'error1': 'Utente non trovato. Per favore crea un account.',
+      'error2': 'Email o password non corretta.',
+      'buttonTextLogin': 'Accedi',
+      'forgotPasswordText': 'Password dimenticata?',
+      'lastLine': 'Non hai un account?',
+      'lastLine2': 'Iscriviti',
+      'screenTitleForgotPassword': 'Recupera Password',
+      'labelTextOfField': 'Inserisci Email',
+      'buttonTextForgotPassword': 'Resetta Password',
+      'error1ForgotPassword': 'Per favore inserisci la tua email.',
+      'error2ForgotPassword': 'Per favore inserisci un indirizzo email valido.',
+      'successText': 'Email di reset password inviata con successo.',
+      'error3ForgotPassword': "Nessun utente trovato con l'indirizzo email fornito.",
+      'wholesomeErrorForgotPassword': 'Si è verificato un errore durante l\'invio dell\'email di reset password.',
+      'greetingText': 'Buongiorno',
+      'greetingText2': 'Buon pomeriggio',
+      'greetingText3': 'Buonasera',
+      'greetingText4': 'Buona notte',
+      'heading1Text': 'Libri Preferiti',
+      'heading2Text': 'Libri Desiderati',
+      'heading3Text': 'Libri Già Letti',
+      'heading4Text': 'Libri Consigliati',
+      'screenTitleSearch': 'Ricerca',
+      'searchBarLabelText': 'Nome/Titolo, Autore',
+      'searchButtonText': 'Cerca',
+      'filterButtonText': 'Filtra',
+      'recommendMeABookButtonText': 'Consigliami un Libro',
+    },
+  };
+
+  static AppLocalizations? of(BuildContext context) {
+    return Localizations.of<AppLocalizations>(context, AppLocalizations);
+  }
+
+  String? get login {
+    return _localizedValues[locale.languageCode]!['login'];
+  }
+
+  String? get signup {
+    return _localizedValues[locale.languageCode]!['signup'];
+  }
+
+  String? get signinAsAGuest {
+    return _localizedValues[locale.languageCode]!['signinAsAGuest'];
+  }
+
+  String? get signupTitle {
+    return _localizedValues[locale.languageCode]!['signupTitle'];
+  }
+
+  String? get labelTextOfFirstField {
+    return _localizedValues[locale.languageCode]!['labelTextOfFirstField'];
+  }
+
+  String? get labelTextOf2ndField {
+    return _localizedValues[locale.languageCode]!['labelTextOf2ndField'];
+  }
+
+  String? get labelTextOf3rdField {
+    return _localizedValues[locale.languageCode]!['labelTextOf3rdField'];
+  }
+
+  String? get termsText1 {
+    return _localizedValues[locale.languageCode]!['termsText1'];
+  }
+
+  String? get termsText2 {
+    return _localizedValues[locale.languageCode]!['termsText2'];
+  }
+
+  String? get buttonText {
+    return _localizedValues[locale.languageCode]!['buttonText'];
+  }
+
+  String? get separationLineText {
+    return _localizedValues[locale.languageCode]!['separationLineText'];
+  }
+
+  String? get signInWithGoogleButtonText {
+    return _localizedValues[locale.languageCode]!['signInWithGoogleButtonText'];
+  }
+
+  String? get signInWithFacebookButtonText {
+    return _localizedValues[locale.languageCode]!['signInWithFacebookButtonText'];
+  }
+
+  String? get nameError1 {
+    return _localizedValues[locale.languageCode]!['nameError1'];
+  }
+
+  String? get emailError1 {
+    return _localizedValues[locale.languageCode]!['emailError1'];
+  }
+
+  String? get emailError2 {
+    return _localizedValues[locale.languageCode]!['emailError2'];
+  }
+
+  String? get passwordError {
+    return _localizedValues[locale.languageCode]!['passwordError'];
+  }
+
+  String? get passwordError2 {
+    return _localizedValues[locale.languageCode]!['passwordError2'];
+  }
+
+  String? get passwordError3 {
+    return _localizedValues[locale.languageCode]!['passwordError3'];
+  }
+
+  String? get accountCreationText {
+    return _localizedValues[locale.languageCode]!['accountCreationText'];
+  }
+
+  String? get wholesomeError {
+    return _localizedValues[locale.languageCode]!['wholesomeError'];
+  }
+
+  String? get alreadyHaveAnAccount {
+    return _localizedValues[locale.languageCode]!['alreadyHaveAnAccount'];
+  }
+
+  String? get loginText {
+    return _localizedValues[locale.languageCode]!['loginText'];
+  }
+
+  String? get conditionToCreateAnAccount {
+    return _localizedValues[locale.languageCode]!['conditionToCreateAnAccount'];
+  }
+
+  String? get screenTitle {
+    return _localizedValues[locale.languageCode]!['screenTitle'];
+  }
+
+  String? get labelTextOf1stField {
+    return _localizedValues[locale.languageCode]!['labelTextOf1stField'];
+  }
+
+  String? get labelTextOfSecondField {
+    return _localizedValues[locale.languageCode]!['labelTextOf2ndField'];
+  }
+
+  String? get error1 {
+    return _localizedValues[locale.languageCode]!['error1'];
+  }
+
+  String? get error2 {
+    return _localizedValues[locale.languageCode]!['error2'];
+  }
+
+  String? get buttonTextLogin {
+    return _localizedValues[locale.languageCode]!['buttonText'];
+  }
+
+  String? get forgotPasswordText {
+    return _localizedValues[locale.languageCode]!['forgotPasswordText'];
+  }
+
+  String? get lastLine {
+    return _localizedValues[locale.languageCode]!['lastLine'];
+  }
+
+  String? get lastLine2 {
+    return _localizedValues[locale.languageCode]!['lastLine2'];
+  }
+
+  String? get screenTitleForgotPassword {
+    return _localizedValues[locale.languageCode]!['screenTitle'];
+  }
+
+  String? get labelTextOfField {
+    return _localizedValues[locale.languageCode]!['labelTextOfField'];
+  }
+
+  String? get buttonTextForgotPassword {
+    return _localizedValues[locale.languageCode]!['buttonText'];
+  }
+
+  String? get error1ForgotPassword {
+    return _localizedValues[locale.languageCode]!['error1'];
+  }
+
+  String? get error2ForgotPassword {
+    return _localizedValues[locale.languageCode]!['error2'];
+  }
+
+  String? get successText {
+    return _localizedValues[locale.languageCode]!['successText'];
+  }
+
+  String? get error3ForgotPassword {
+    return _localizedValues[locale.languageCode]!['error3'];
+  }
+
+  String? get wholesomeErrorForgotPassword {
+    return _localizedValues[locale.languageCode]!['wholesomeError'];
+  }
+
+  String? get greetingText {
+    return _localizedValues[locale.languageCode]!['greetingText'];
+  }
+
+  String? get greetingText2 {
+    return _localizedValues[locale.languageCode]!['greetingText2'];
+  }
+
+  String? get greetingText3 {
+    return _localizedValues[locale.languageCode]!['greetingText3'];
+  }
+
+  String? get greetingText4 {
+    return _localizedValues[locale.languageCode]!['greetingText4'];
+  }
+
+  String? get heading1Text {
+    return _localizedValues[locale.languageCode]!['heading1Text'];
+  }
+
+  String? get heading2Text {
+    return _localizedValues[locale.languageCode]!['heading2Text'];
+  }
+
+  String? get heading3Text {
+    return _localizedValues[locale.languageCode]!['heading3Text'];
+  }
+
+  String? get heading4Text {
+    return _localizedValues[locale.languageCode]!['heading4Text'];
+  }
+
+  String? get screenTitleSearch {
+    return _localizedValues[locale.languageCode]!['screenTitle'];
+  }
+
+  String? get searchBarLabelText {
+    return _localizedValues[locale.languageCode]!['searchBarLabelText'];
+  }
+
+  String? get searchButtonText {
+    return _localizedValues[locale.languageCode]!['searchButtonText'];
+  }
+
+  String? get filterButtonText {
+    return _localizedValues[locale.languageCode]!['filterButtonText'];
+  }
+
+  String? get recommendMeABookButtonText {
+    return _localizedValues[locale.languageCode]!['recommendMeABookButtonText'];
+  }
+}
+
+class AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
+  const AppLocalizationsDelegate();
+
+  @override
+  bool isSupported(Locale locale) {
+    return ['en', 'it'].contains(locale.languageCode);
+  }
+
+  @override
+  Future<AppLocalizations> load(Locale locale) async {
+    return AppLocalizations(locale);
+  }
+
+  @override
+  bool shouldReload(AppLocalizationsDelegate old) {
+    return false;
+  }
+}
+
+import 'package:flutter/material.dart';
+import 'package:onboarding_slider/onboarding_slider.dart';
+
+class OnboardingScreen extends StatelessWidget {
+  final List<OnboardingSliderModel> slides = [
+    OnboardingSliderModel(
+      title: "Welcome to MyApp",
+      description: "Discover and read your favorite books.",
+      image: AssetImage('assets/images/slide1.png'),
+    ),
+    OnboardingSliderModel(
+      title: "Add Books to 'Already Read'",
+      description: "Tap the plus sign to add books to your 'Already Read' list.",
+      image: AssetImage('assets/images/slide2.png'),
+    ),
+    OnboardingSliderModel(
+      title: "Scan Book Barcode",
+      description: "Use the barcode scanner to quickly add books.",
+      image: AssetImage('assets/images/slide3.png'),
+    ),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return OnboardingSlider(
+      slides: slides,
+      onDonePressed: () {
+        // Handle the done button action (e.g., navigate to the next screen)
+        Navigator.pushReplacementNamed(context, '/home');
+      },
+      showSkipButton: true, // Show skip button
+      skipButtonStyle: TextButton.styleFrom(
+        primary: Colors.white,
+      ),
+      skipButtonText: 'Skip',
+      doneButtonStyle: TextButton.styleFrom(
+        primary: Colors.white,
+      ),
+      doneButtonText: 'Get Started',
+    );
+  }
+}
+
+
+

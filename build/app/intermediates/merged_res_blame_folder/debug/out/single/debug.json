@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xxxhdpi_gogobook.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xxxhdpi/gogobook.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-mdpi_gogobook.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-mdpi/gogobook.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-hdpi_gogobook.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-hdpi/gogobook.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xhdpi_gogobook.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xhdpi/gogobook.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/drawable-v21_launch_background.xml.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.gogobookdev.gogobook.app-merged_res-44:/mipmap-xxhdpi_gogobook.png.flat",
+        "source": "com.gogobookdev.gogobook.app-main-37:/mipmap-xxhdpi/gogobook.png"
+    }
+]
